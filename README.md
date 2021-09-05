@@ -7,7 +7,7 @@
 
  ## Доставка еды (на двоих)
  Доставка еды, как бизнес, предполагает наличие определенных структур:
- * список ресторанов, список блюд, список доставщиков (деливери, яндекс)
+ * список ресторанов, список блюд, список доставщиков ([деливери](https://www.delivery-club.ru/moscow?_1ld=3211342_1&utm_source=yandex&utm_medium=cpc&utm_term=деливери%20клаб&utm_campaign=s-dc-rgn-brnd-general-rgn-gro-wa-09-06-2021-22-31-00-62669792&utm_content=v2%7C%7C10794572976%7C%7C32349661072%7C%7Cделивери%20клаб%7C%7C2%7C%7Cpremium%7C%7Cnone%7C%7Csearch%7C%7Cno), [яндекс](https://eda.yandex.ru/moscow/?shippingType=delivery&utm_campaign=52515371.%5BEDA%5DDT_BR-goal_RU-ALL-200_brand_restype-search_NU&utm_content=&utm_medium=cpc&utm_source=yasearch&utm_term=яндекс%20еда%7Cpid%7C20970723560%7Caid%7C9175494633&yclid=5175008866640120955))
  * формирование заказа (мобилка)
  * доставка заказа (мобилка)
 
