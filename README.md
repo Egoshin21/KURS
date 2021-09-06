@@ -9,7 +9,7 @@
   <tr>
     <td style="text-align: center; border: none; height: 15em;">
     <h2 style="font-size:3em;">Отчет</h2>
-      <h3>по курсовой работе<br><br> по дисциплине "Проект и дизайн ИС Т"<br><br> Тема:<b> Описание предметной области"<b> </h3></td>
+      <h3>по курсовой работе<br><br> по дисциплине "Проект и дизайн ИС Т"<br><br> Тема:<b>Доставка еды"<b> </h3></td>
   </tr>
   <tr>
     <br><br><td style="text-align: right; border: none; height: 20em;">
