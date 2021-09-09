@@ -28,10 +28,6 @@
 
 <div style="page-break-after: always;"></div>
 
-# Цели и задачи:
-Описать предметную область
-
- 
  
  
 
