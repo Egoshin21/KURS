@@ -119,3 +119,6 @@
   # Диаграмма прецедентов
   
   [UseCase.pdf](https://github.com/Egoshin21/zxcv/files/7138495/UseCase.pdf)
+  
+  ![Usecase](https://user-images.githubusercontent.com/78643217/132732354-1403086a-288b-4eca-8a2a-a48c8d3d7b06.png)
+
