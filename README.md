@@ -117,5 +117,6 @@
   # Диаграмма прецедентов
   
   
-  ![Usecase](https://user-images.githubusercontent.com/78643217/132977460-8d21fd6b-2806-4ce5-82c9-28fcccdab81a.png)
+  ![Usecase](https://user-images.githubusercontent.com/78643217/132977896-b1ae4539-c254-4abc-885a-503f9c977cd7.png)
+
 
