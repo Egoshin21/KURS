@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td style="text-align: center; border: none; height: 5em;">
-    г.Йошкар-Ола,<br> 2021</td>
+    г.Йошкар-Ола,<br> 2022</td>
   </tr>
 </table>
 
