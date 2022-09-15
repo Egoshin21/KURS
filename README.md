@@ -31,7 +31,7 @@
  
  
 # Содержание
-  1. [Описание предметной области](https://github.com/Egoshin21/zxcv#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D0%B9-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8) 
+  1. [Описание предметной области](#описание-предметной-области) 
   2. [Диаграмма прецедентов](https://github.com/Egoshin21/zxcv#%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
   3. [Спецификация прецедентов](https://github.com/Egoshin21/zxcv/blob/main/README.md#спецификация-прецедентов)
   4. [ER-диаграмма](https://github.com/Egoshin21/KURS#er-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)
@@ -40,7 +40,7 @@
 
 
 
-<h1 align="center"> Описание предметной области</h1>
+##Описание предметной области
 
  
  ![kqeaaWKk8S4](https://user-images.githubusercontent.com/78643217/132090652-1f35d72c-37e0-4ea7-b642-d8dcbe77ca49.jpg)
